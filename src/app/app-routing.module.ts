@@ -18,7 +18,7 @@ const routes: Routes = [
   { path: 'contact', component: ContactComponent },
   { path: 'aboutus', component: AboutusComponent },
   { path: '',   redirectTo: '/home', pathMatch: 'full' }, // redirect to `first-component`
-  { path: '**', component: HomeComponent },  // Wildcard route for a 404 page
+  { path: '**', component: HomeComponent } // Wildcard route for a 404 page
 ];
 
 @NgModule({

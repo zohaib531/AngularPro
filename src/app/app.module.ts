@@ -9,6 +9,8 @@ import { PortfolioComponent } from './Components/portfolio/portfolio.component';
 import { BlogComponent } from './Components/blog/blog.component';
 import { ContactComponent } from './Components/contact/contact.component';
 import { AboutusComponent } from './Components/aboutus/aboutus.component';
+import { SidebarComponent } from './Components/sidebar/sidebar.component';
+import { HeaderComponent } from './Components/header/header.component';
 
 @NgModule({
   declarations: [
@@ -19,11 +21,14 @@ import { AboutusComponent } from './Components/aboutus/aboutus.component';
     PortfolioComponent,
     BlogComponent,
     ContactComponent,
-    AboutusComponent
+    AboutusComponent,
+    SidebarComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]
