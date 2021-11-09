@@ -1,0 +1,58 @@
+
+BLueHost Neon Wordpress
+
+Domain: neon.uk.net
+| Ip: 147.182.236.58 (n)
+| HasCgi: y
+| UserName: neonuk
+| PassWord: e*#hEM6?Mw2j
+
+
+
+
+LoginTo admin credientials neoncraft1
+
+Link: neon.uk.net
+Name: neon
+Passwrod: Rb5)2MgCQjyzPWlp1&
+
+
+
+
+LoginTo admin credientials neoncraft2
+
+Link: http://amazonneon.com/wp-login.php
+Name: amazonneon
+Passwrod: s!^0O2qyZ2A(^XOnhs
+
+
+
+LoginTo admin credientials neoncraft3
+
+https://neon.soooooolit.com
+name => neonadmin
+password => 0i8l&@AR1B
+
+
+
+
+Stripe Test Keys
+key:pk_test_51J57xIBcWjNyiMcZsfJQAEMtE2uSXeAFDh3yKVEcAsAhB5ZHZb7aoKtogqyyhrNxIfMBgL6Z8fmWkIgrNsxEWIXV00x9mVuhLH
+password:sk_test_51J57xIBcWjNyiMcZmxArnhm02DvMLUsAGGMiMA5aXYXAfhg4ikbcH39UxZlUwKEvnIqSuVt2TgmVR0dverU9w24U00PmBRCL5o
+
+
+
+
+
+
+
+Database credientials neoncraft1
+
+db Name= ewdtech_neoncraft1
+password:3JgX},0,q$Vy
+
+Site userName
+neoncraft_one
+password: neoncraft123
+
+
