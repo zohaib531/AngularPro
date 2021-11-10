@@ -25,8 +25,12 @@
 <body>
   <app-root></app-root>
 </body>
-<script src="assets/js/workingCode-min-home.min.js" ></script> -->
-<script src="assets/js/aboutUsParticle.json" ></script>
+
+ <!-- <script src="./assets/js/carousel.js"></script>  -->
+ <script src="assets/js/aboutUsParticle.json" ></script>
+<script src="./assets/js/workingCode-min-home.min.js"></script> 
+<script src="./assets/js/headerFooter.js"></script>
+<!-- 
 <script src="assets/js/jquery.js" ></script>
 <script src="assets/js/service.js"></script>
 <script src="assets/js/graphic-anim-1.json"  ></script>
@@ -35,8 +39,16 @@
 <script src="assets/js/graphic-anim-3.json"> </script>
 <script src="assets/js/graphic-anim-4.json"></script>
 <script src="assets/js/graphic-anim-5.json"></script>
-<script src="assets/js/headerFooter.js" ></script>
+<script src="assets/js/headerFooter.js" ></script> -->
 
 
-
+<script>
+  const rotateOneOver = (e) => {
+      e.children[1].style.webkitAnimation = 'rotation 2s infinite linear';
+  }
+  const rotateOneLeave = (e) => {
+      e.children[1].style.webkitAnimation = 'rotation 2s infinite linear';
+      e.children[1].style.animationPlayState = 'paused';
+  }
+</script>
 </html>

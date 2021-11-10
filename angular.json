@@ -34,18 +34,7 @@
               "src/styles.css"
             ],
             "scripts": [
-              "node_modules/jquery/dist/jquery.min.js",
-              "node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "src/assets/js/workingCode-min-home.min.js",
-              "src/assets/js/aboutUsParticle.json",
-              "src/assets/js/jquery.js",
-              "src/assets/js/service.js",
-              "src/assets/js/graphic-anim-1.json",
-              "src/assets/js/graphic-anim-2.json",
-              "src/assets/js/graphic-anim-3.json",
-              "src/assets/js/graphic-anim-4.json",
-              "src/assets/js/graphic-anim-5.json",
-              "src/assets/js/headerFooter.js"
+              
             ]
           },
           "configurations": {
