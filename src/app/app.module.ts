@@ -15,6 +15,7 @@ import { HeaderComponent } from './Components/header/header.component';
 @NgModule({
   declarations: [
     AppComponent,
+    HeaderComponent,
     HomeComponent,
     ServicesComponent,
     ECommerceComponent,
@@ -23,7 +24,7 @@ import { HeaderComponent } from './Components/header/header.component';
     ContactComponent,
     AboutusComponent,
     SidebarComponent,
-    HeaderComponent
+  
   ],
   imports: [
     BrowserModule,
